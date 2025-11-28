@@ -981,6 +981,15 @@
 - type: Tag
   id: Mineshaft
 
+- type: Tag
+  id: Manual1
+
+- type: Tag
+  id: Manual2
+
+- type: Tag
+  id: Manual3
+
 # Magazines ordered by slot then caliber
 
 - type: Tag
